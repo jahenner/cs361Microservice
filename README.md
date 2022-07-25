@@ -14,4 +14,5 @@ ok will be a boolean value indicating if anything went wrong during the calculat
 msg will be a string with a short message on what went wrong.
 
 UML Diagram
+
 ![image](https://user-images.githubusercontent.com/76822904/180844917-311dd781-4367-4262-8e46-f7596469b168.png)

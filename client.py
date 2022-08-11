@@ -2,7 +2,7 @@ from socket import *
 import json
 
 def main():
-    serverName = "23.239.16.52"
+    serverName = "127.0.0.1"
     serverPort = 47123
     clientSocket = socket(AF_INET, SOCK_STREAM)
     clientSocket.connect((serverName, serverPort))

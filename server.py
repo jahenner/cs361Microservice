@@ -22,7 +22,7 @@ def compound_interest(data: dict) -> dict:
     return result
 
 def main():
-    serverName = '23.239.16.52'
+    serverName = '127.0.0.1'
     serverPort = 47123
     serverSocket = socket(AF_INET, SOCK_STREAM)
 
